@@ -4,7 +4,7 @@ package a2;
  * Name: Kane Li
  * NetID: jl3485
  * Testing Partner Name: Una Wu
- * Testing Partner NetID:
+ * Testing Partner NetID: yw523
  * Tell us what you thought about the assignment: Spend too much time :)
  */
 
