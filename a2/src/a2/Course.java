@@ -30,7 +30,7 @@ public class Course {
      */
     private String name;
 
-    private boolean classInv() {
+    boolean classInv() {
         if (hour < 0 || hour > 24 || min > 59 || min <= 0) {
             return false;
         }

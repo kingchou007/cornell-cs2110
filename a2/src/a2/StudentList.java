@@ -22,7 +22,7 @@ public class StudentList {
     // TODO 10: Add instance variables for the StudentList and write a class invariant
     // You may not use any classes from the java.util package.
 
-    private boolean classInv() {
+    boolean classInv() {
         return size >= 0 && capacity >= 0 && capacity >= size;
 
     }
@@ -157,7 +157,6 @@ public class StudentList {
         return tempIndex;
     }
 
-
     /**
      * The String representation of this StudentList
      */
@@ -170,10 +169,6 @@ public class StudentList {
         }
         sb.append("]");
         return sb.toString();
-    }
-
-    public int getCapacity() {
-        return capacity;
     }
 
 }

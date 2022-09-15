@@ -17,7 +17,7 @@ public class Student {
     private Course course; //
 
 
-    private boolean classInv() {
+    boolean classInv() {
         if (firstName.isEmpty() || lastName.isEmpty() || year < 0) {
             return false;
         }
