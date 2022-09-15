@@ -1,0 +1,43 @@
+help
+addstudent aa AA 1
+addstudent bb BB 2
+addstudent cc CC 3
+addstudent dd DD 4
+addstudent ee EE 4
+addstudent ff FF 3
+addstudent gg GG 2
+addstudent hh HH 1
+addstudent ii II 1
+addstudent jj JJ 2
+addstudent kk KK 3
+addstudent ll LL 4
+students
+courses
+addcourse CS2110 Myers Statler 10:10
+addcourse INFO1300 Harms Uris 12:00
+addcourse COGST3801 Basu Klarman 14:05
+courses
+enrollment 0
+enroll 0 0
+enroll 1 0
+enroll 2 0
+enroll 3 0
+enroll 4 0
+enroll 5 0
+enrollment 0
+drop 5 0
+enrollment 0
+enrollment 1
+enroll 5 1
+enroll 6 1
+enrollment 1
+drop 5 1
+drop 6 1
+drop 0 1
+enrollment 1
+enroll 0 2
+enroll 5 2
+enroll 10 2
+enrollment 2
+exit
+

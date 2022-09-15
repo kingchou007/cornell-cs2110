@@ -1,0 +1,45 @@
+help
+addstudent Kane L 1
+addstudent Una W 2
+addstudent Tim B 3
+addstudent Phil P 4
+addstudent Alex Z 4
+addstudent Patrick F 3
+addstudent Fred Q 2
+students
+
+courses
+addcourse FoundationOfRobotics TapomayukhBhattacharjee HollisterHall 15:45
+addcourse CS2110 AndrewMyers StatlerHall 10:10
+courses
+
+enrollment 0
+enrollment 1
+
+enroll 0 0
+enroll 1 0
+enroll 2 0
+enroll 3 0
+enroll 3 1
+enroll 4 1
+enroll 5 1
+enroll 6 1
+
+
+enrollment 0
+enrollment 1
+
+drop 0 0
+drop 1 0
+drop 2 0
+drop 0 1
+
+drop 4 0
+drop 4 1
+drop 5 1
+
+
+enrollment 0
+enrollment 1
+
+exit
