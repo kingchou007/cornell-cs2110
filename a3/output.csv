@@ -1,0 +1,8 @@
+[brands, year, type, miles, color, price]
+[Alfa, 2021, romeo3, 32000, red, 30000]
+[Alfa, 2021, romeo3, 32000, red, 30000]
+[Acura, 2021, tlx, 10000, black, 45000]
+[Audi, 2020, a6, 4000, white, 32000]
+[BMW, 2016, x5, 60000, black, 60000, 55000, black, 50000]
+[BMW, 2013, m4, 60000, black, 60000, 55000, black, 50000]
+[Ford, 2012, f1]
